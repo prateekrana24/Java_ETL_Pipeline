@@ -9,7 +9,7 @@ This project leverages modern Java features and best practices to provide a seam
 - **Data Transformation**: Parses and processes the JSON response to extract relevant stock information.
 - **Data Loading**: Inserts the transformed data into a MySQL database.
 - **Error Handling**: Implements error handling to ensure smooth execution and debugging of data operations.
-- **Stream and Lambda Support**: Utilizes Java Streams and Lambdas for concise and efficient data processing.
+- **Object Oriented Programming (OOP), Interfaces, Generics, Streams, and Lambdas Support**: Utilized these Java techniques and principles for concise and efficient data processing.
 
 ## Prerequisites
 - Java Development Kit (JDK) 8 or higher
